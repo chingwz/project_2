@@ -1,0 +1,90 @@
+@media screen{
+    min-width:320px;
+    
+}
+
+.bdycolor{
+    background:#DEB887;
+    padding-top: 5px;
+}
+
+div h2{
+    font-family: 'Baloo', cursive;
+}
+
+.title {
+    padding: 10px 0px 0px 50px;
+}
+
+input{
+    border-radius: 8px;
+}
+
+.button {
+    border: 1px solid #DEB887;
+    background: #DEB887;
+    color: black;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.button:hover {
+    border: 1px solid #331a00;
+    background: #331a00;
+    color:white;
+}
+
+.right a {
+    color: black;
+    text-decoration: none;
+}
+
+.right a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+.carousel-inner {
+    padding-top: 10px;
+}
+
+.jumbotron {
+    background-color: transparent !important;
+}
+
+.follow{
+    padding: 10px;
+    text-align: center;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius:50%;
+}
+
+.fa:hover {
+    opacity: 0.9;
+}
+
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+footer {
+    background: #DEB887;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+}
+
+.nofoot{
+    background: white;
+}
